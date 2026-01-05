@@ -21,6 +21,11 @@ img {
   border-radius: 15px;
 }
 
+h3 {
+  color: #ba6ac9;
+  text-align: left;
+}
+
 /* .container-1 {
   width: 50px;
   display: flex;
