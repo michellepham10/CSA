@@ -16,7 +16,7 @@ h2 {
 img {
   width: 50px;
   border-width: 2px;
-  border-style: groove;
+  border-style: solid;
   border-color: green;
   border-radius: 15px;
 }
