@@ -20,7 +20,7 @@ img {
 .container-1 {
   width: 50px;
   display: flex;
-  flex-flow: column wrap;
+  flex-flow: column nowrap;
   align-content: center;
   justify-content: space-between;
 }
