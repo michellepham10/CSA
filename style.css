@@ -18,6 +18,7 @@ img {
 }
 
 .container-1 {
+  width: 50px;
   display: flex;
   flex-flow: column wrap;
   align-content: center;
