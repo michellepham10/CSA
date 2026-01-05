@@ -1,5 +1,6 @@
 body {
   background: #ebf2ff;
+  <!-- background color, light blue -->
 }
 
 h1 {
@@ -9,4 +10,9 @@ h1 {
 
 img {
  <!-- width: 500px; -->
+  margin: 67px;
+  border-color: #5f1c8b;
+  border-width: 4px;
+  border-style: solid;
+  border-radius: 10px;
 }
